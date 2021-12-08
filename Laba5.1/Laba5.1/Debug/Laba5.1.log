@@ -1,0 +1,5 @@
+﻿  Laba5.1.cpp
+  The contents of <span> are available only with C++20 or later.
+C:\Users\mivla\source\repos\Laba5.1\Laba5.1\Laba5.1.cpp(22,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mivla\source\repos\Laba5.1\Laba5.1\Laba5.1.cpp(87,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba5.1.vcxproj -> C:\Users\mivla\source\repos\Laba5.1\Debug\Laba5.1.exe
